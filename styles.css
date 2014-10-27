@@ -4,4 +4,7 @@ a:hover {text-decoration: none;}
 
 li {margin-bottom: 10px;}
 
-button {width: 160px;}
+.path {
+  position: relative;
+  top: 3px;
+}
