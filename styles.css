@@ -1,1 +1,17 @@
-.container {padding-top: 60px;}
+.container {
+  border: 1px solid #eee;
+  border-radius: 300px;
+  bottom: 0;
+  display: table;
+  left: 0;
+  margin: auto;
+  padding: 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.row {
+  align-items: center;
+  display: flex;
+}
